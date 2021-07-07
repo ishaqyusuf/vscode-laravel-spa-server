@@ -15,7 +15,7 @@ One step <em><b>faster</b></em> for Vite
 - ⚡️ **Start the dev server immediately** when you open the project
 - 🚀 Preview / debug your app **without leaving your editor**
 - ⬢ Prompt for quick node module installs (`npm i` `yarn` `pnpm i`) when opening a fresh project
-- 📦 One-click build and serve 
+- 📦 One-click build and serve
 - 🔄 Restart the server with one-click
 - 📚 Support for VitePress
 - 🔋 Powered by [Browse Lite](https://github.com/antfu/vscode-browse-lite)
@@ -29,15 +29,10 @@ One step <em><b>faster</b></em> for Vite
 
 ## Sponsors
 
-This project is part of my [Sponsor Program](https://github.com/sponsors/antfu).
-
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/antfu/static/sponsors.png'/>
-  </a>
-</p>
+This project is part of my [Sponsor Program](https://github.com/sponsors/ishaqyusuf).
 
 ## License
 
 MIT
+
 # vscode-laravel-spa-server
